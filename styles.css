@@ -49,7 +49,7 @@ ul{                                     /**stylizes the nav and organizes it to 
 
 .content{
     padding: 400px 600px;
-    background-image:url("/images/Camera.jpg"); 
+    background-image:url(".../images/Camera.jpg"); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -121,7 +121,7 @@ a{
     grid-template-columns: 300px 450px;
     margin: auto;
     padding: 2rem;
-    width: 800px;
+    width: 700px;
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
