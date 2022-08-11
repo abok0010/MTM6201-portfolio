@@ -48,6 +48,7 @@ ul{                                     /**stylizes the nav and organizes it to 
    }
 
 .content{
+    display: block;
     padding: 400px 600px;
     background-image: url("images/camera.jpg");
     background-position: center;
