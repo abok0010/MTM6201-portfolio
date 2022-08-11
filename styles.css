@@ -50,7 +50,7 @@ ul{                                     /**stylizes the nav and organizes it to 
 .content{
     display: block;
     padding: 400px 600px;
-    background-image: url(".../images/Camera.jpg");
+    background-image: url("../images/Camera.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
