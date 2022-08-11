@@ -257,7 +257,7 @@ li:hover {
 
 .content{
     margin-top: 10px;
-    background-image:url("./images/camera.jpg");
+    background-image:url(".images/camera.jpg");
     background-size: 700px 500px;
     background-repeat: no-repeat;
     background-position: center;
